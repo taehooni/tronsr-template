@@ -1,7 +1,7 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Minsub Shin
+Role: Team Leader
 
 ## Team Member 1
 
